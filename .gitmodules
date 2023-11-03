@@ -1,0 +1,12 @@
+[submodule "web-parser-scraper-service"]
+	path = web-parser-scraper-service
+	url = https://github.com/Therenegadee/web-parser-scraper-service
+[submodule "web-parser-gateway"]
+	path = web-parser-gateway
+	url = https://github.com/Therenegadee/web-parser-gateway
+[submodule "web-parser-user"]
+	path = web-parser-user
+	url = https://github.com/Therenegadee/web-parser-user
+[submodule "web-parser-telegram"]
+	path = web-parser-telegram
+	url = https://github.com/Therenegadee/web-parser-telegram
