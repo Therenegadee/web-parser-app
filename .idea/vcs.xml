@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/web-parser-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/web-parser-scraper-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/web-parser-telegram" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/web-parser-user" vcs="Git" />
   </component>
 </project>

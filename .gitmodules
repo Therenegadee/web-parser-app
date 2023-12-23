@@ -10,3 +10,6 @@
 [submodule "web-parser-telegram"]
 	path = web-parser-telegram
 	url = https://github.com/Therenegadee/web-parser-telegram
+[submodule "web-parser-frontend"]
+	path = web-parser-frontend
+	url = https://github.com/Therenegadee/web-parser-frontend
