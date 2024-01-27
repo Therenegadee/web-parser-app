@@ -7,6 +7,7 @@
 [submodule "web-parser-user"]
 	path = web-parser-user
 	url = https://github.com/Therenegadee/web-parser-user
+	branch = main
 [submodule "web-parser-telegram"]
 	path = web-parser-telegram
 	url = https://github.com/Therenegadee/web-parser-telegram
